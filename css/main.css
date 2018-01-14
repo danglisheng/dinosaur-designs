@@ -1,0 +1,39 @@
+html{
+  background-color: #f2f1ed;
+  font-family:Georgia,serif;
+  line-height:1.5;
+}
+ul,ol{
+  list-style:none;
+}
+img{
+  width:100%;
+}
+h1{
+  color:#5d8432;
+  text-transform:uppercase;
+}
+h1,nav{
+  font-family: 'Patua One', cursive;
+}
+figcaption{
+  font-style:italic;
+  text-align:center;
+  font-size:80%;
+}
+nav a{
+  font-weight: bold;
+  font-size:1.125rem;
+  text-decoration: none;
+  color:#793284;
+}
+nav a:hover{
+  color:#b42885;
+  text-decoration: underline;
+}
+section:first-child h1{
+  font-size:1.5rem;
+}
+
+
+
